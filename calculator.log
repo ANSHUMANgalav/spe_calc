@@ -1,0 +1,13 @@
+2021-03-13 23:32:49.796 [main] INFO  calculator.App - square root of 4.0
+2021-03-13 23:35:09.161 [main] INFO  calculator.App - square root of 4.0
+2021-03-14 15:08:00.591 [main] INFO  calculator.App - square root of 4.0
+2021-03-14 20:21:57.818 [main] INFO  calculator.App - factorial of 5.0
+2021-03-14 20:21:57.821 [main] INFO  calculator.App - Result : 120.0
+2021-03-14 20:21:57.822 [main] INFO  calculator.App - factorial of 0.0
+2021-03-14 20:21:57.822 [main] INFO  calculator.App - Result : 1.0
+2021-03-14 20:21:57.823 [main] INFO  calculator.App - factorial of -5.0
+2021-03-14 20:21:57.824 [main] ERROR calculator.App - Error : fac not defined for negative numbers
+2021-03-14 20:21:57.824 [main] INFO  calculator.App - Result : NaN
+2021-03-14 20:21:57.825 [main] INFO  calculator.App - taking natural log of 10.0
+2021-03-14 20:21:57.826 [main] INFO  calculator.App - taking natural log of 1.0
+2021-03-14 20:21:57.827 [main] INFO  calculator.App - taking natural log of 0.0

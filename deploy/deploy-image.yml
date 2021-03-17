@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of scientificcalculator
+  hosts: all
+  tasks:
+    - name: Pull spe_calc image
+      docker_image:
+        name: anshumangalav/spe_calc
+        source: pull
